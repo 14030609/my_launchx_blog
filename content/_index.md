@@ -1,6 +1,6 @@
 ---
 title: Launch X Bitácora de viaje
-description: The hallway smelt of boiled cabbage and old rag mats.
+description: mis aprendizajes y mis experiencias
 ---
 
 Hola ✌️  soy el explorer **Miguel Angel Velazquez Ayala** y este es mi blog personal donde compartiré mis aventuras de Launch X.
